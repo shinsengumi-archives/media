@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="ru" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="ru" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="ru" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="ru" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="ru" class="no-js"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <![endif]-->
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="shortcut icon" href="http://spar.org.ua/templates/muse_ru/style/images/favicon.png" type="image/png" />
+<link rel="alternate" type="application/rss+xml" title="Штукатурные работы" href="http://spar.org.ua/feed/rss/" />
+
+<link rel="stylesheet" type="text/css" href="http://spar.org.ua/templates/muse_ru/style/fonts/roboto.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://spar.org.ua/templates/muse_ru/style/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://spar.org.ua/templates/muse_ru/style/inc_style.css" />
+
+<script type="text/javascript">
+(function(doc){var addEvent='addEventListener',type='gesturestart',qsa='querySelectorAll',scales=[1,1],meta=qsa in doc?doc[qsa]('meta[name=viewport]'):[];function fix(){meta.content='width=device-width,minimum-scale='+scales[0]+',maximum-scale='+scales[1];doc.removeEventListener(type,fix,true);}if((meta=meta[meta.length-1])&&addEvent in doc){fix();scales=[.25,1.6];doc[addEvent](type,fix,true);}}(document));
+</script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/modernizr.min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/respond.min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/general.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/cusel-min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="http://spar.org.ua/templates/muse_ru/js/hoverIntent.js"></script>
+
+<title>Штукатурные работы</title>
+<meta name="keywords" content="штукатурные работы, отделка стен декоративной штукатуркой, короед декоративная штукатурка, декоративная штукатурка камень, декоративная штукатурка цветы, итальянская декоративная штукатурка" />
+<meta name="description" content="Сегодня, чтобы сделать отделку своего дома, квартиры или офиса эффективной, самобытной и привлекательной нет необходимости запасаться дорогими отделочными материалами. Не так давно в строительной индустрии появилось новое направление облицовочных материалов..." />
+</head>
+<body class="chrome">
+    <div class="body_wrap">
+		<div class="logo">
+	<a href="http://spar.org.ua/">Штукатурные работы</a>
+	
+</div>
+<div class="header">
+	<div class="header_inner">
+		<div id="topmenu" class="menu-menu-container">
+			<ul id="menu-menu" class="dropdown">
+				<li class="menu-item-blue menu-item"><a href="http://spar.org.ua/"><span>Главная</span></a></li>
+				<li class="menu-item-orange menu-item"><a href="#"><span>Категории</span></a>
+					<ul class="submenu-1">
+						<li class="menu-item"><a href="http://spar.org.ua/Shpaklevka/"><span>Шпаклевка</span></a></li><li class="menu-item"><a href="http://spar.org.ua/ShpaklevanieStenPodOboi/"><span>Шпаклевание стен под обои</span></a></li><li class="menu-item"><a href="http://spar.org.ua/DekorativnayaShtukaturka/"><span>Декоративная штукатурка</span></a></li><li class="menu-item"><a href="http://spar.org.ua/ShtukaturkaPotolkov/"><span>Штукатурка потолков</span></a></li><li class="menu-item"><a href="http://spar.org.ua/OshtukaturivanieStenSvoimiRukami/"><span>Оштукатуривание стен своими руками</span></a></li><li class="menu-item"><a href="http://spar.org.ua/ViravnivanieSten/"><span>Выравнивание стен</span></a></li>					</ul>
+				</li>
+				<li class="menu-item-pink menu-item"><a href="http://spar.org.ua/sitemap/"><span>Карта сайта</span></a></li>
+				<li class="menu-item-green menu-item"><a href="http://spar.org.ua/contact/"><span>Контакты</span></a></li>
+			</ul>
+		</div>            
+	</div>
+</div>
+		<div id="middle" class="full_width">
+			<div class="container clearfix container_wide">
+				<div class="postlist postajax grid_view clearfix pag" id="grid_view">
+					
+											<div class="post-item boxed main">
+							<span class="post-label label-image"></span>
+							<div class="post-title"><h2><a href="/DekorativnayaShtukaturka/otdelka-sten-dekorativnoy-shtukaturkoy">Отделка Стен Декоративной Штукатуркой</a></h2></div>
+							<div class="post-meta-top">
+								<span class="post-date" title="Май 19, 2020 &#8211; 06:21">Май 19, 2020</span> 
+								<span class="post-author"><a href="http://spar.org.ua/DekorativnayaShtukaturka/" title="Перейти к категории Декоративная штукатурка">Декоративная штукатурка</a></span>
+							</div>
+							<div class="post-image"><a href="/DekorativnayaShtukaturka/otdelka-sten-dekorativnoy-shtukaturkoy"><img src="/img/main_preview/otdelka_sten_dekorativnoy_shtukaturkoy.jpg" alt="Отделка Стен Декоративной Штукатуркой" width="340" height="150" /></a></div>
+							<div class="post-descr"><p>Сегодня, чтобы сделать отделку своего дома, квартиры или офиса эффективной, самобытной и привлекательной нет необходимости запасаться дорогими отделочными материалами. Не так давно в строительной индустрии&hellip;</p></div>  
+							<div class="post-meta-bot clearfix"><a href="/DekorativnayaShtukaturka/otdelka-sten-dekorativnoy-shtukaturkoy" class="button"><span>Читать дальше</span></a></div>
+						</div>
+											<div class="post-item boxed main">
+							<span class="post-label label-image"></span>
+							<div class="post-title"><h2><a href="/DekorativnayaShtukaturka/koroed-dekorativnaya-shtukaturka">Короед Декоративная Штукатурка</a></h2></div>
+							<div class="post-meta-top">
+								<span class="post-date" title="Май 19, 2020 &#8211; 06:21">Май 19, 2020</span> 
+								<span class="post-author"><a href="http://spar.org.ua/DekorativnayaShtukaturka/" title="Перейти к категории Декоративная штукатурка">Декоративная штукатурка</a></span>
+							</div>
+							<div class="post-image"><a href="/DekorativnayaShtukaturka/koroed-dekorativnaya-shtukaturka"><img src="/img/main_preview/koroed_dekorativnaya_shtukaturka.jpg" alt="Короед Декоративная Штукатурка" width="340" height="150" /></a></div>
+							<div class="post-descr"><p>Сегодня на рынке есть масса . Менеджер компании «Старатели» рассказал, какие декоративные штукатурки можно покупать с гарантией Российский рынок строительных материалов постоянно обновляется, появляются&hellip;</p></div>  
+							<div class="post-meta-bot clearfix"><a href="/DekorativnayaShtukaturka/koroed-dekorativnaya-shtukaturka" class="button"><span>Читать дальше</span></a></div>
+						</div>
+											<div class="post-item boxed main">
+							<span class="post-label label-image"></span>
+							<div class="post-title"><h2><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-kamen">Декоративная Штукатурка Камень</a></h2></div>
+							<div class="post-meta-top">
+								<span class="post-date" title="Май 19, 2020 &#8211; 06:21">Май 19, 2020</span> 
+								<span class="post-author"><a href="http://spar.org.ua/DekorativnayaShtukaturka/" title="Перейти к категории Декоративная штукатурка">Декоративная штукатурка</a></span>
+							</div>
+							<div class="post-image"><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-kamen"><img src="/img/main_preview/dekorativnaya_shtukaturka_kamen.jpg" alt="Декоративная Штукатурка Камень" width="340" height="150" /></a></div>
+							<div class="post-descr"><p>1. Изготовлены из 100% безвредных натуральных компонентов. Могут применяться в помещениях для аллергиков и детей. 2. Штукатурки и краски «Крайдецайт» исключительно комфортны: антистатичны — не притягивают&hellip;</p></div>  
+							<div class="post-meta-bot clearfix"><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-kamen" class="button"><span>Читать дальше</span></a></div>
+						</div>
+											<div class="post-item boxed main">
+							<span class="post-label label-image"></span>
+							<div class="post-title"><h2><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-cveti">Декоративная Штукатурка Цветы</a></h2></div>
+							<div class="post-meta-top">
+								<span class="post-date" title="Май 19, 2020 &#8211; 06:21">Май 19, 2020</span> 
+								<span class="post-author"><a href="http://spar.org.ua/DekorativnayaShtukaturka/" title="Перейти к категории Декоративная штукатурка">Декоративная штукатурка</a></span>
+							</div>
+							<div class="post-image"><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-cveti"><img src="/img/main_preview/dekorativnaya_shtukaturka_cveti.jpg" alt="Декоративная Штукатурка Цветы" width="340" height="150" /></a></div>
+							<div class="post-descr"><p>Оглавление: [ скрыть ] Особенности декоративной штукатурки Декоративная штукатурка цветы Инструменты для выполнения декоративной штукатурки своими руками Порядок выполнения декоративной штукатурки «Цветы»&hellip;</p></div>  
+							<div class="post-meta-bot clearfix"><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-cveti" class="button"><span>Читать дальше</span></a></div>
+						</div>
+											<div class="post-item boxed main">
+							<span class="post-label label-image"></span>
+							<div class="post-title"><h2><a href="/DekorativnayaShtukaturka/italyanskaya-dekorativnaya-shtukaturka">Итальянская Декоративная Штукатурка</a></h2></div>
+							<div class="post-meta-top">
+								<span class="post-date" title="Май 19, 2020 &#8211; 06:21">Май 19, 2020</span> 
+								<span class="post-author"><a href="http://spar.org.ua/DekorativnayaShtukaturka/" title="Перейти к категории Декоративная штукатурка">Декоративная штукатурка</a></span>
+							</div>
+							<div class="post-image"><a href="/DekorativnayaShtukaturka/italyanskaya-dekorativnaya-shtukaturka"><img src="/img/main_preview/italyanskaya_dekorativnaya_shtukaturka.jpg" alt="Итальянская Декоративная Штукатурка" width="340" height="150" /></a></div>
+							<div class="post-descr"><p>1. Какого эффекта можно добиться, используя декоративную штукатурку? С помощью декоративной штукатурки вы сможете воспроизвести самые смелые идеи: эффект шелка, бархата, кожи, мрамора, цветных металлов&hellip;</p></div>  
+							<div class="post-meta-bot clearfix"><a href="/DekorativnayaShtukaturka/italyanskaya-dekorativnaya-shtukaturka" class="button"><span>Читать дальше</span></a></div>
+						</div>
+											<div class="post-item boxed main">
+							<span class="post-label label-image"></span>
+							<div class="post-title"><h2><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-diamant">Декоративная Штукатурка Диамант</a></h2></div>
+							<div class="post-meta-top">
+								<span class="post-date" title="Май 19, 2020 &#8211; 06:21">Май 19, 2020</span> 
+								<span class="post-author"><a href="http://spar.org.ua/DekorativnayaShtukaturka/" title="Перейти к категории Декоративная штукатурка">Декоративная штукатурка</a></span>
+							</div>
+							<div class="post-image"><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-diamant"><img src="/img/main_preview/dekorativnaya_shtukaturka_diamant.jpg" alt="Декоративная Штукатурка Диамант" width="340" height="150" /></a></div>
+							<div class="post-descr"><p>Для наружных и внутренних работ. Применяется при оштукатуривании фасадов зданий по поверхности цементных штукатурок (например, КНАУФ-Унтерпутц, КНАУФ-Грюнбанд) и бетона, в системах наружной теплоизоляции&hellip;</p></div>  
+							<div class="post-meta-bot clearfix"><a href="/DekorativnayaShtukaturka/dekorativnaya-shtukaturka-diamant" class="button"><span>Читать дальше</span></a></div>
+						</div>
+									</div>
+			</div> 
+		</div>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t45.16;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='1' height='1' style='position:absolute; left:-9999px;'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<div class="container">
+		<center><p>Copyright &copy; <script type="text/javascript">var mdate = new Date(); document.write(mdate.getFullYear());</script>. All Rights Reserved</p></center>
+</div><br>
+
+</div>
+
+
+</body>
+</html>

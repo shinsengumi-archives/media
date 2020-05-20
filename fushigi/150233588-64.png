@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:m="http://mayaa.seasar.org">
+<head>
+<meta name="robots" content="noindex, nofollow, noarchive" />
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<style type="text/css">
+<!--
+body{line-height:150%;color:#333333;text-align:center;font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,Osaka,'ＭＳ Ｐゴシック','MS P Gothic',sans-serif;}
+h1{font-size:110%;}
+div{background:#D5F6F4;padding:20px;margin:auto;text-align:left;width:700px;margin-bottom:10px;}
+p{margin:0px;padding:0px;font-size:95%;}
+-->
+</style>
+
+<title>ページが見つかりません。</title>
+</head>
+
+<body>
+
+<h1>以下のエラーが発生しました。</h1>
+<div>
+	<p>404 Not Found　ページが見つかりません。</p>
+
+</div>
+
+
+</body>
+</html>
